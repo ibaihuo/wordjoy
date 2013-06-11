@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=快乐背单词！
+Comment[en_US]=have a new joy!
+Exec[$e]=google-chrome
+GenericName=
+GenericName[en_US]=
+Icon=/home/oyea9le/scripting/python/pygtk/projects/wordjoy_0.2.9/logo/wordjoy_64_64.png
+MimeType=
+Name=wordjoy
+Name[en_US]=wordjoy
+Path[$e]=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
